@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+test_database.sqlite
+exported_churn_data.csv
+.venv/
+venv/
+env/
